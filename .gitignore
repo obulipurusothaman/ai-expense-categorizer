@@ -1,0 +1,17 @@
+# Backend
+backend/target/
+backend/*.class
+backend/.mvn/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
